@@ -30,7 +30,7 @@ A two-wheeled self-balancing robot that implements the classic **Inverted Pendul
 
 | Front view | Side view |
 |---|---|
-| ![Robot front view](/photos/Image3) | ![Robot side view](/photos/Image2) |
+| ![Robot front view](/photos/Image3.jpg) | ![Robot side view](/photos/Image2.jpg) |
 
 ---
 
@@ -120,10 +120,10 @@ To counteract the fall, motors drive the wheels *in the direction of the fall*. 
 ## 💻 Code
 
 **Version 1.0 — Self-balancing (PID):**
-(Version1.ino)
+[Version1](Version1.ino)
 
 **Version 2.0 — Bluetooth control:**
-(Version2.ino)
+[Version2](Version2.ino)
 
 ### How to Upload
 
@@ -173,24 +173,10 @@ Version 2.0 adds an **HC-05 Bluetooth module**, allowing you to control the robo
 
 **Demo:**
 
-(/photos/Video2.mp4)
+[Video2]((/photos/Video2.mp4)
 
 
-**Code:** (Version2.ino)
-
----
-
-## 📁 Project Structure
-
-```
-self-balancing-robot/
-├── Image1                    ← Robot front-view photo
-├── Image2                    ← Robot side-view photo
-├── Video                     ← Demo video (push test + load)
-├── circuit_diagram.png       ← Cirkit Designer schematic
-├── README.md                 ← You are here
-└── LICENSE
-```
+**Code:** [Version2]((Version2.ino)
 
 ---
 
