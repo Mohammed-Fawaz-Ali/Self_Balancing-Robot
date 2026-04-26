@@ -173,10 +173,10 @@ Version 2.0 adds an **HC-05 Bluetooth module**, allowing you to control the robo
 
 **Demo:**
 
-[Video2]((/photos/Video2.mp4)
+[Video2](/photos/Video2.mp4)
 
 
-**Code:** [Version2]((Version2.ino)
+**Code:** [Version2](Version2.ino)
 
 ---
 
